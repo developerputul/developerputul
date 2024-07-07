@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerputul&label=Profile%20views&color=0e75b6&style=flat" alt="developerputul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerputul" alt="developerputul" /></a> </p>
+<p align="center"><img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="animated-image" /> </p>
 
 - 💬 Ask me about **HTML,CSS,PHP,JS,Laravel**
 
