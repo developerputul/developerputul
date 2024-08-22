@@ -3,7 +3,7 @@
 
 <p align="left"> </p>
 
-<p align="center"><img src="https://www.dreamstime.com/photos-images/programmer-cartoon.html" alt="animated-image"/> </p>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="animated-image"/> </p>
 
 - 💬 Ask me about **HTML,CSS,PHP,JS,Laravel**
 
